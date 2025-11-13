@@ -1,3 +1,6 @@
 commit 3 revert
+<<<<<<< HEAD
 added line extra
 deletion
+=======
+>>>>>>> parent of dc27d72 (line added extra)
