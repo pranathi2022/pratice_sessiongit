@@ -1,2 +1,3 @@
 commit 3 revert
 added line extra
+deletion
